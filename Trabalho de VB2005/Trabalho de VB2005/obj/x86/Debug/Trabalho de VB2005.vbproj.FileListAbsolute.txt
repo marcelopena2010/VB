@@ -1,0 +1,11 @@
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\bin\Debug\Trabalho de VB2005.exe
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\bin\Debug\Trabalho de VB2005.pdb
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\bin\Debug\Trabalho de VB2005.xml
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\obj\x86\Debug\Trabalho_de_VB2005.Form1.resources
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\obj\x86\Debug\Trabalho_de_VB2005.Resources.resources
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\obj\x86\Debug\Trabalho de VB2005.exe
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\obj\x86\Debug\Trabalho de VB2005.xml
+C:\Users\Marcelo Pena\AppData\Local\Temporary Projects\Trabalho de VB2005\obj\x86\Debug\Trabalho de VB2005.pdb

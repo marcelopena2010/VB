@@ -1,0 +1,18 @@
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\bin\Debug\Controle de Clinica.exe.config
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\bin\Debug\Controle de Clinica.pdb
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\bin\Debug\Controle de Clinica.xml
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle_de_Clinica.formPrincipal.resources
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle_de_Clinica.formCadConvenios.resources
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle_de_Clinica.Resources.resources
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle de Clinica.exe
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle de Clinica.xml
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle de Clinica.pdb
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\bin\Debug\Controle Clinica.accdb
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle_de_Clinica.formCadPacientes.resources
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle_de_Clinica.formVerConsultas.resources
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle_de_Clinica.formMarcaConsulta.resources
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle_de_Clinica.formCancelaConsulta.resources
+C:\Users\Marcelo Pena\Desktop\Projeto - Controle de clinica\Controle de Clinica\Controle de Clinica\obj\x86\Debug\Controle_de_Clinica.formFichaPaciente.resources
